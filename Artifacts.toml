@@ -1,0 +1,6 @@
+[CGAL_5_4]
+git-tree-sha1 = "d6d4b50a17150839bc3d67388562368897d96de0"
+
+    [[CGAL_5_4.download]]
+    sha256 = "cf8b8e71482bcd156a3c4db93e01aedfea788f1a27fba6555d86d656f36c45df"
+    url = "https://github.com/mathieu17g/CGAL_5_4_jll.jl/releases/download/CGAL_5_4-v5.4.0+0/CGAL_5_4.v5.4.0.any.tar.gz"
